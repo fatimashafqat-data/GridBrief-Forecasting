@@ -1,0 +1,25 @@
+{
+  "forecast_origin": "00:00 UTC each day",
+  "forecast_intervals": 48,
+  "interval_minutes": 30,
+  "target": "carbon_intensity_gco2_per_kwh",
+  "features": [
+    "lag_1_day",
+    "lag_2_days",
+    "lag_7_days",
+    "previous_day_mean",
+    "previous_day_std",
+    "hour_sin",
+    "hour_cos",
+    "weekday_sin",
+    "weekday_cos",
+    "year_sin",
+    "year_cos",
+    "is_weekend"
+  ],
+  "lag_steps": {
+    "lag_1_day": 48,
+    "lag_2_days": 96,
+    "lag_7_days": 336
+  }
+}

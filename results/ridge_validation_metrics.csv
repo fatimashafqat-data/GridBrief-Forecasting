@@ -1,0 +1,2 @@
+model,mae_gco2_per_kwh,rmse_gco2_per_kwh
+Ridge Regression,42.56471150341928,49.686078864435736

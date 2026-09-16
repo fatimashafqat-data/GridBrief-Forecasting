@@ -1,0 +1,8 @@
+{
+  "selected_method": "Same time yesterday",
+  "selection_criterion": "Lowest validation MAE",
+  "validation_mae_gco2_per_kwh": 40.42338709677419,
+  "validation_start_utc": "2025-10-01T00:00:00+00:00",
+  "validation_end_utc": "2025-11-01T00:00:00+00:00",
+  "refit_after_validation": false
+}

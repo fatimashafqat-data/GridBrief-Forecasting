@@ -1,0 +1,2 @@
+window_start_utc,window_end_utc,energy_kwh,predicted_mean_gco2_per_kwh,predicted_emissions_gco2,forecast_method
+2025-11-01 22:00:00+00:00,2025-11-02 00:00:00+00:00,2.0,51.75,103.5,Same time yesterday

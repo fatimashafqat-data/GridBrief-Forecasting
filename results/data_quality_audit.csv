@@ -1,0 +1,12 @@
+check,count
+Expected half-hourly intervals,17520
+Downloaded rows,17520
+Rows missing start or end timestamps,0
+Duplicate start timestamps,0
+Missing half-hourly intervals,0
+Unexpected start timestamps,0
+Intervals with incorrect duration,0
+Missing carbon-intensity values,0
+Non-numeric carbon-intensity values,0
+Infinite carbon-intensity values,0
+Negative carbon-intensity values,0

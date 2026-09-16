@@ -1,0 +1,4 @@
+set,rows,forecast_days,first_day,last_day
+Training,12768,266,2025-01-08,2025-09-30
+Validation,1488,31,2025-10-01,2025-10-31
+Test,2928,61,2025-11-01,2025-12-31

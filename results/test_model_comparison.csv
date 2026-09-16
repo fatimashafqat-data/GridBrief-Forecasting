@@ -1,0 +1,4 @@
+model,mae_gco2_per_kwh,rmse_gco2_per_kwh,selected_on_validation
+Ridge Regression,40.83083717965507,48.915652481972224,False
+Same time yesterday,42.53244535519126,54.53998195037784,True
+Histogram Gradient Boosting,44.34196805266442,54.390065905991975,False
